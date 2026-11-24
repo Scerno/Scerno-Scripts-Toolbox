@@ -8,6 +8,10 @@ Standalone utilities from earlier Scerno workflows. Each script documents its de
 | [FFmpeg media tools](Scripts/ffmpeg/media-tools.py) | MP3 conversion, video proxies, H.264 MOV, watermarking, duration and splitting |
 | [ImageMagick image exports](Scripts/ImageMagick/export-images.py) | Studio image sets, JPEG conversion, trimmed datasheet PNGs and SVG rasterisation |
 
+## Windows drag and drop
+
+The [Windows batch files](Scripts/Windows%20batch%20files.md) include a standalone studio-image exporter, a selected-image copier and four folder templates.
+
 ## Examples
 
 Run the Python scripts with Python 3 and the command-line tools listed above on your PATH. Paths in the examples are placeholders.
